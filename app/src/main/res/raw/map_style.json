@@ -1,0 +1,24 @@
+[
+  {
+    "featureType": "poi",
+    "stylers": [
+      {
+        "color": "#ff3d3d"
+      },
+      {
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "stylers": [
+      {
+        "color": "#666060"
+      },
+      {
+        "weight": 0.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Story App</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="account_login">Account Login</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_account_register">Do not have account? Register</string>
+    <string name="account_register">Account Register</string>
+    <string name="register">Register</string>
+    <string name="item_name">John Doe</string>
+    <string name="register_name">Name</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
